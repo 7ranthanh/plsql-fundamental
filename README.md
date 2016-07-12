@@ -36,3 +36,8 @@ $ git git
 $ git remote add origin https://github.com/pnhung177/plsql-fundamental.git
 ```
 
+## Clone kho mã nguồn về máy
+
+Trong trường hợp bạn đã có sẵn kho mã nguồn trên github rồi, vì lý do nào đó bạn chuyển sang máy tính mới (chẳng hạn khi về nhà dùng máy tính ở nhà, mà máy này thì chưa có dự án) và bạn muốn "kéo" toàn bộ dự án đang làm việc về máy tín mới. Cách làm như sau:
+
+Chọn một thư mục chứa thư mục dự án. Thường thì một số người có thói quen lưu tất cả các dự án vào thư mục `Projects` hoặc `Workspace` để tiện quản lý. Giả sử bạn muốn để dự án này vào thư mục Projects bên trong thư mục riêng. 
